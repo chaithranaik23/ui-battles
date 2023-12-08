@@ -1,0 +1,113 @@
+body{
+    height: 100vh;
+    background-color: black;
+    
+}
+.navbar
+{
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    right: 0;
+    position: absolute;
+    color: white;
+}
+nav li
+{
+    margin:  0 15px;
+    list-style: none;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    padding: 5px;
+    justify-content: space-around;
+}
+nav{
+    background-color: black;
+    color: white;
+    padding: 15px 0;
+text-align: center;
+}
+ul{
+    display: flex;
+    padding: 5px;
+    margin: 20px;
+    list-style: none;
+    justify-content: space-around;
+}
+.li
+{
+    margin: 10px;
+    padding: 5px;
+}
+.heading
+{
+    justify-content: center;
+    font-size: 50px;
+    text-align: center;
+    margin: 10px;
+    /* left: 50%; */
+    top: 15vh;
+    position: relative;
+}
+h1{
+    font-size: 70px;
+    justify-content: center;
+    text-align: center;
+  
+}
+.h1
+{
+    justify-content: center;
+    text-align: center;
+    color: white;
+    margin-top: 20vh;
+}
+.enge
+{
+    color: white;
+    text-align: center;
+
+    /* padding: 5px 50px;
+    width: 5px;
+    /* border: none; */
+    /* border-radius: 10%; */
+    /* background-color: red; */
+    /* position: relative; */
+} 
+.eng
+{
+    padding: 2px 2px;
+    width: 150px;
+    border: none;
+    border-radius: 10%;
+    background-color: tan;
+    position: relative;
+    top: 20vh;
+    left: 40%;
+}
+.soci
+{
+    color: white;
+    position: relative;
+    /* right: 40%; */
+    top: 15vh;
+    right: -800px;
+}
+p
+{
+    color: white;
+}
+.text
+{
+    position: relative;
+    color: white;
+    padding: 50px;
+}
+.para
+{
+    font-size: 10px;
+    color: white;
+
+}
